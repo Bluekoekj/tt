@@ -1,3 +1,5 @@
+<title> Welcome! </title>
+
 # Welcome!
 
 Welcome to the official Technically Thomas page!
@@ -6,5 +8,5 @@ Welcome to the official Technically Thomas page!
 
 Nothing, yet!
 
-Retun to home here: 
-https://bluekoekj.github.io/
+  <a href="/">Return to home
+  
