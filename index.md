@@ -7,9 +7,9 @@ Welcome to the official Technically Thomas page!
 
 ## Whats new? 
 
-All of my TikTok accounts will be closing
+Nothing yet! Check back tomorrow for more
 
-  <a href="/tiktokclosure">More info
+  <a href="/">More info
   
   Page revision 1.0
 
